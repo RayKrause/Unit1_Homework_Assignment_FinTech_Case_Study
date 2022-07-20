@@ -1,7 +1,8 @@
 # Unit1_Homework_Assignment_FinTech_Case_Study
 
-
 ***Unit 1 Homework Assignment FinTech Case Study***
+
+![image](https://user-images.githubusercontent.com/109116465/180090772-1293d3a0-75c7-417e-9c3b-d8e0e14d3cf6.png)
 
 ## Overview and Origin
 
@@ -83,6 +84,8 @@ Over the past year, Chainalysis has:
 
 Chainalysis has become the industry leader within their domain. The growth status of Chainalysis is exploding with a 5-year search growth rate of 787% for Blockchain analysis and anti-money laundering software for intuitions dealing with cryptocurrencies.
 
+![image](https://user-images.githubusercontent.com/109116465/180088536-4b9a0e59-3448-4786-ae19-dd0e404f755b.png)
+*Chart provided by explodingtopics.com/topic/chainalysis
 
 ## Recommendations
 
