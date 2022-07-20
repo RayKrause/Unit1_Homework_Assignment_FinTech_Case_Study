@@ -1,6 +1,6 @@
 # Unit1_Homework_Assignment_FinTech_Case_Study
 
-***Unit 1 Homework Assignment FinTech Case Study***
+***Unit 1 Homework Assignment FinTech Case Study, by Ray Krause***
 
 
 <img align="right" width="300" height="150" src="https://user-images.githubusercontent.com/109116465/180090772-1293d3a0-75c7-417e-9c3b-d8e0e14d3cf6.png">
