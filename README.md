@@ -2,9 +2,10 @@
 
 ***Unit 1 Homework Assignment FinTech Case Study***
 
-![image](https://user-images.githubusercontent.com/109116465/180090772-1293d3a0-75c7-417e-9c3b-d8e0e14d3cf6.png)
 
-## Overview and Origin
+<img align="right" width="300" height="150" src="https://user-images.githubusercontent.com/109116465/180090772-1293d3a0-75c7-417e-9c3b-d8e0e14d3cf6.png">
+
+## Overview and Origin 
 
 Started in New York city [Chainalysis](https://www.chainalysis.com/) is an anti-money laundering (AML) and risk detection solutions provider for blockchains that powers compliance, regulatory, and investigative software solutions that detect and prevent illicit activities. They offer their cryptocurrency compliance products to crypto companies, Insurance companies, financial institutions, and government agencies. From KYT (know your transactions) to virtual investigation (crypto forensics), Chainalysis offers a range of solutions with a global reach spanning more than 70 countries. Chainalysis is a privately held company with 700+ employees and 42 Investors.
 
