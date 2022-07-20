@@ -3,10 +3,7 @@
 
 ***Unit 1 Homework Assignment FinTech Case Study***
 
-
-**Overview and Origin**
-
-  
+## Overview and Origin
 
 Started in New York city [Chainalysis](https://www.chainalysis.com/) is an anti-money laundering (AML) and risk detection solutions provider for blockchains that powers compliance, regulatory, and investigative software solutions that detect and prevent illicit activities. They offer their cryptocurrency compliance products to crypto companies, Insurance companies, financial institutions, and government agencies. From KYT (know your transactions) to virtual investigation (crypto forensics), Chainalysis offers a range of solutions with a global reach spanning more than 70 countries. Chainalysis is a privately held company with 700+ employees and 42 Investors.
 
@@ -30,7 +27,7 @@ According to Chainlysis’s corporate website, Mr. Gronager was inspired to star
 
 Chainalysis was funded via a series of private funding rounds the latest F funding round raised $170M, these investors include Accel, Addition, Benchmark, Coatue, GIC, Paradigm, Ribbit among other Venture Capital firms. Chainalysis has raised $536.6M in funding as of June 2022. With a valuation of $8.6B.
 
-**Business Activities**
+## Business Activities
 
 **What specific financial problem is the company or project trying to solve?**
 
@@ -50,7 +47,7 @@ Whether its Compliance, Investigations, DeFi or NFTs Chainalysis understands the
 
 Chainalysis technologies include a suite of blockchain analysis software designed for financial institutions, insurance agencies, government agencies, cryptocurrency exchanges among others. Their products enable customers to receive the report of customers cryptocurrency-related activities, visualize, investigate and detect the illegal sale of customer data and ransomware cases, as well as identify revenue and cash-outs. Features include anti-money laundering (AML) and know your customers (KYC) compliance obligation, due diligence enhancement, real-time issuance and redemption monitoring, and multi-currency support. Products include Chainalysis Reactor and Chainalysis KYT (know your transactions) along with Krytos, Chainalysis Market Intel and Chainalysis Business Data.
 
-**Landscape**
+## Landscape
 
 **What domain of the financial industry is the company in?**
 
@@ -64,7 +61,7 @@ Increased attention on financial regulations, increased adoption of advanced tec
 
 IBM Corporation, Wolters Kluwer N.V., Deloitte, London Stock Exchange Group (LSEG), Infrasoft Technologies, Accuity, NICE Actimize, MetricStream, ACTICO, 6clicks, Tessian, Tookitaki, Ascent, ClauseMatch, Trunomi, Mindbridge AI, ComplyAdvantage, CyberGRX, ThetaRay, DataVisor, Apiax, Dathena Science, PaymentWorks, Corlytics, Hawk:AI, Behavox, NorthRow, Quantexa
 
-**Results**
+## Results
 
 **What has been the business impact of this company so far?**
 
@@ -87,7 +84,7 @@ Over the past year, Chainalysis has:
 Chainalysis has become the industry leader within their domain. The growth status of Chainalysis is exploding with a 5-year search growth rate of 787% for Blockchain analysis and anti-money laundering software for intuitions dealing with cryptocurrencies.
 
 
-**Recommendations**
+## Recommendations
 
 **If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers or use your imagination!)**
 
@@ -97,7 +94,7 @@ Sometimes less is more! I would suggest that Chainalysis not expand their produc
 
 I believe this course of action would benefit Chainalysis as they are currently looking to fill many openings, 113 positions globally in fact. Considering their current staffing level of approximately 700 employees that’s a 16% increase in required personnel to just fill its current openings. Given the fact that Chainalysis is still a relatively new company and has experienced exceptional growth in its first 7 years it should be careful not to expand to quickly which could be detrimental to the company. Therefore, it would be prudent to remain focused on the current product line opposed to expanding it at this time.
 
-**Resources**
+## Resources
 
 [https://www.chainalysis.com/](https://www.chainalysis.com/)
 
