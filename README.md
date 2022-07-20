@@ -85,8 +85,11 @@ Over the past year, Chainalysis has:
 
 Chainalysis has become the industry leader within their domain. The growth status of Chainalysis is exploding with a 5-year search growth rate of 787% for Blockchain analysis and anti-money laundering software for intuitions dealing with cryptocurrencies.
 
-![image](https://user-images.githubusercontent.com/109116465/180088536-4b9a0e59-3448-4786-ae19-dd0e404f755b.png)
+<p align="center">
+  <img width="600" height="400" src="https://user-images.githubusercontent.com/109116465/180088536-4b9a0e59-3448-4786-ae19-dd0e404f755b.png">
+</p>
 *Chart provided by explodingtopics.com/topic/chainalysis
+
 
 ## Recommendations
 
